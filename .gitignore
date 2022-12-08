@@ -1,6 +1,11 @@
+.settings/
 Debug/
 Release/
-.settings/
+system/
+.cproject
+.project
+system.svc
 *.bak
+
 
 
