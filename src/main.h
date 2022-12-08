@@ -13,7 +13,7 @@
 /**********/
 #define	mainVERSION_MAJOR	2
 #define	mainVERSION_MINOR	1
-#define	mainVERSION_X		1
+#define	mainVERSION_X		2
 
 #define mainPRIORITY_MAIN_TASK		1
 #define mainPRIORITY_FLASH_TASK		1
